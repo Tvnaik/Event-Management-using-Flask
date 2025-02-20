@@ -1,6 +1,0 @@
-myenv1/
-__pycache__/
-*.pyc
-*.pyo
-venv/
-.vscode/
